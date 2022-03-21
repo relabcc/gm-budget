@@ -2,115 +2,115 @@
   {
     "name": "縣(市)議會主管",
     "id": "010",
-    "value": 985525,
-    "adjustment": 41938
+    "value": 663917,
+    "adjustment": 6905
   },
   {
     "name": "縣(市)政府主管",
     "id": "020",
-    "value": 323801,
-    "adjustment": 74001
+    "value": 841003,
+    "adjustment": 57188
   },
   {
     "name": "行政(管理)處、新聞(局)處主管",
     "id": "030",
-    "value": 258414,
-    "adjustment": 68609
+    "value": 53534,
+    "adjustment": 7080
   },
   {
     "name": "民政局(處)主管",
     "id": "040",
-    "value": 66443,
-    "adjustment": 7668
+    "value": 746117,
+    "adjustment": 108446
   },
   {
     "name": "教育局(處)主管",
     "id": "050",
-    "value": 26686,
-    "adjustment": 2405
+    "value": 907797,
+    "adjustment": 7298
   },
   {
     "name": "農(產)(經濟)業(發展)",
     "id": "060",
-    "value": 605865,
-    "adjustment": 102745
+    "value": 900029,
+    "adjustment": 84638
   },
   {
     "name": "社會(勞工)局(處)主管",
     "id": "070",
-    "value": 587230,
-    "adjustment": 101355
+    "value": 275112,
+    "adjustment": 54187
   },
   {
     "name": "漁業局(處)主管",
     "id": "080",
-    "value": 190959,
-    "adjustment": 17987
+    "value": 355600,
+    "adjustment": 64154
   },
   {
     "name": "地政局(處)主管",
     "id": "090",
-    "value": 802325,
-    "adjustment": 16946
+    "value": 42351,
+    "adjustment": 4885
   },
   {
     "name": "稅捐稽徵處|((地方、財政)稅務局)主管",
     "id": "100",
-    "value": 992906,
-    "adjustment": 271439
+    "value": 978996,
+    "adjustment": 41245
   },
   {
     "name": "警察局主管",
     "id": "110",
-    "value": 896513,
-    "adjustment": 220458
+    "value": 107562,
+    "adjustment": 25613
   },
   {
     "name": "消防局主管",
     "id": "120",
-    "value": 220368,
-    "adjustment": 31437
+    "value": 980636,
+    "adjustment": 138452
   },
   {
     "name": "環境保護局主管",
     "id": "130",
-    "value": 419979,
-    "adjustment": 113128
+    "value": 39873,
+    "adjustment": 4522
   },
   {
     "name": "衛生局主管",
     "id": "140",
-    "value": 665390,
-    "adjustment": 52984
+    "value": 842870,
+    "adjustment": 89278
   },
   {
     "name": "文化(觀光)(傳播)局(處)主管",
     "id": "150",
-    "value": 250819,
-    "adjustment": 5765
+    "value": 21396,
+    "adjustment": 75
   },
   {
     "name": "其他局(處)主管",
     "id": "160",
-    "value": 8210,
-    "adjustment": 655
+    "value": 144374,
+    "adjustment": 13212
   },
   {
     "name": "統支撥科目(其他支出)",
     "id": "170",
-    "value": 463137,
-    "adjustment": 6417
+    "value": 721788,
+    "adjustment": 192377
   },
   {
     "name": "調整公務員工待遇準備",
     "id": "180",
-    "value": 552697,
-    "adjustment": 95678
+    "value": 362522,
+    "adjustment": 93933
   },
   {
     "name": "第二預備金",
     "id": "190",
-    "value": 189611,
-    "adjustment": 7785
+    "value": 838137,
+    "adjustment": 161778
   }
 ]
